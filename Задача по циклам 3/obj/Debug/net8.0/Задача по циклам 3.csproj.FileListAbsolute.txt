@@ -1,0 +1,15 @@
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 3\bin\Debug\net8.0\Задача по циклам 3.exe
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 3\bin\Debug\net8.0\Задача по циклам 3.deps.json
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 3\bin\Debug\net8.0\Задача по циклам 3.runtimeconfig.json
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 3\bin\Debug\net8.0\Задача по циклам 3.dll
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 3\bin\Debug\net8.0\Задача по циклам 3.pdb
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 3\obj\Debug\net8.0\Задача по циклам 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 3\obj\Debug\net8.0\Задача по циклам 3.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 3\obj\Debug\net8.0\Задача по циклам 3.AssemblyInfo.cs
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 3\obj\Debug\net8.0\Задача по циклам 3.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 3\obj\Debug\net8.0\Задача по циклам 3.sourcelink.json
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 3\obj\Debug\net8.0\Задача по циклам 3.dll
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 3\obj\Debug\net8.0\refint\Задача по циклам 3.dll
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 3\obj\Debug\net8.0\Задача по циклам 3.pdb
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 3\obj\Debug\net8.0\Задача по циклам 3.genruntimeconfig.cache
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 3\obj\Debug\net8.0\ref\Задача по циклам 3.dll

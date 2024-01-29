@@ -1,0 +1,15 @@
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по массивам 1\bin\Debug\net8.0\Задача по массивам 1.exe
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по массивам 1\bin\Debug\net8.0\Задача по массивам 1.deps.json
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по массивам 1\bin\Debug\net8.0\Задача по массивам 1.runtimeconfig.json
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по массивам 1\bin\Debug\net8.0\Задача по массивам 1.dll
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по массивам 1\bin\Debug\net8.0\Задача по массивам 1.pdb
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по массивам 1\obj\Debug\net8.0\Задача по массивам 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по массивам 1\obj\Debug\net8.0\Задача по массивам 1.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по массивам 1\obj\Debug\net8.0\Задача по массивам 1.AssemblyInfo.cs
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по массивам 1\obj\Debug\net8.0\Задача по массивам 1.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по массивам 1\obj\Debug\net8.0\Задача по массивам 1.sourcelink.json
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по массивам 1\obj\Debug\net8.0\Задача по массивам 1.dll
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по массивам 1\obj\Debug\net8.0\refint\Задача по массивам 1.dll
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по массивам 1\obj\Debug\net8.0\Задача по массивам 1.pdb
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по массивам 1\obj\Debug\net8.0\Задача по массивам 1.genruntimeconfig.cache
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по массивам 1\obj\Debug\net8.0\ref\Задача по массивам 1.dll

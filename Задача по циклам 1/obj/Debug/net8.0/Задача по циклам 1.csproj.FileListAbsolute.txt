@@ -1,0 +1,30 @@
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 1\bin\Debug\net8.0\Задача по циклам 1.exe
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 1\bin\Debug\net8.0\Задача по циклам 1.deps.json
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 1\bin\Debug\net8.0\Задача по циклам 1.runtimeconfig.json
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 1\bin\Debug\net8.0\Задача по циклам 1.dll
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 1\bin\Debug\net8.0\Задача по циклам 1.pdb
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 1\obj\Debug\net8.0\Задача по циклам 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 1\obj\Debug\net8.0\Задача по циклам 1.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 1\obj\Debug\net8.0\Задача по циклам 1.AssemblyInfo.cs
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 1\obj\Debug\net8.0\Задача по циклам 1.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 1\obj\Debug\net8.0\Задача по циклам 1.sourcelink.json
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 1\obj\Debug\net8.0\Задача по циклам 1.dll
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 1\obj\Debug\net8.0\refint\Задача по циклам 1.dll
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 1\obj\Debug\net8.0\Задача по циклам 1.pdb
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 1\obj\Debug\net8.0\Задача по циклам 1.genruntimeconfig.cache
+C:\Users\Иван\Desktop\Новая папка\C# Задания\Задача по циклам 1\obj\Debug\net8.0\ref\Задача по циклам 1.dll
+C:\Users\Илья\Desktop\Practice\Задача по циклам 1\bin\Debug\net8.0\Задача по циклам 1.exe
+C:\Users\Илья\Desktop\Practice\Задача по циклам 1\bin\Debug\net8.0\Задача по циклам 1.deps.json
+C:\Users\Илья\Desktop\Practice\Задача по циклам 1\bin\Debug\net8.0\Задача по циклам 1.runtimeconfig.json
+C:\Users\Илья\Desktop\Practice\Задача по циклам 1\bin\Debug\net8.0\Задача по циклам 1.dll
+C:\Users\Илья\Desktop\Practice\Задача по циклам 1\bin\Debug\net8.0\Задача по циклам 1.pdb
+C:\Users\Илья\Desktop\Practice\Задача по циклам 1\obj\Debug\net8.0\Задача по циклам 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\Practice\Задача по циклам 1\obj\Debug\net8.0\Задача по циклам 1.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\Practice\Задача по циклам 1\obj\Debug\net8.0\Задача по циклам 1.AssemblyInfo.cs
+C:\Users\Илья\Desktop\Practice\Задача по циклам 1\obj\Debug\net8.0\Задача по циклам 1.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Practice\Задача по циклам 1\obj\Debug\net8.0\Задача по циклам 1.sourcelink.json
+C:\Users\Илья\Desktop\Practice\Задача по циклам 1\obj\Debug\net8.0\Задача по циклам 1.dll
+C:\Users\Илья\Desktop\Practice\Задача по циклам 1\obj\Debug\net8.0\refint\Задача по циклам 1.dll
+C:\Users\Илья\Desktop\Practice\Задача по циклам 1\obj\Debug\net8.0\Задача по циклам 1.pdb
+C:\Users\Илья\Desktop\Practice\Задача по циклам 1\obj\Debug\net8.0\Задача по циклам 1.genruntimeconfig.cache
+C:\Users\Илья\Desktop\Practice\Задача по циклам 1\obj\Debug\net8.0\ref\Задача по циклам 1.dll
